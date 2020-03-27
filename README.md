@@ -1,6 +1,5 @@
 <h1 align="center">
-    <img alt="BheTheHero" title="#bethehero" src="![logo@3x](https://user-images.githubusercontent.com/43655755/77775966-af927a00-7023-11ea-9a51-2d8510550f1e.png)
-" width="250px" />
+    ![logo@3x](https://user-images.githubusercontent.com/43655755/77775966-af927a00-7023-11ea-9a51-2d8510550f1e.png)
 </h1>
 
 <h4 align="center">

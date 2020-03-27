@@ -9,9 +9,8 @@
 
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -22,7 +21,7 @@
 ![bethehero-00001](https://user-images.githubusercontent.com/43655755/77778634-af947900-7027-11ea-9e96-8c998d0b5908.jpg)
 
 
-## :rocket: Tecnologias
+## :tecnologias: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 

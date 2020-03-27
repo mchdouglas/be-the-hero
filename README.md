@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src='![logo@3x](https://user-images.githubusercontent.com/43655755/77776243-131ca780-7024-11ea-8102-7d51aacb7375.png)' />
+ <img src="https://github.com/mchdouglas/be-the-hero/blob/master/mobile/src/assets/logo%403x.png" />
  </h1>
 
 

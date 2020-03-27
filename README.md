@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/mchdouglas/be-the-hero/blob/master/mobile/src/assets/logo%403x.png" />
+ <img src="https://github.com/mchdouglas/be-the-hero/blob/master/mobile/src/assets/logo%403x.png" alt="BheTheHero" title="#bhethehero"  width="250px"/>
  </h1>
 
 

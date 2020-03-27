@@ -1,5 +1,5 @@
+![logo@3x](https://user-images.githubusercontent.com/43655755/77776243-131ca780-7024-11ea-8102-7d51aacb7375.png)
 
-    ![logo@3x](https://user-images.githubusercontent.com/43655755/77775966-af927a00-7023-11ea-9a51-2d8510550f1e.png)
 
 
 <h4 align="center">

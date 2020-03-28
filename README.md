@@ -7,6 +7,14 @@
   🚀 Semana OmniStack 11.0
 </h4>
 
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+</p>
+
+<br>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
